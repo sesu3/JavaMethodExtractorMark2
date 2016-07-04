@@ -1,0 +1,2 @@
+# JavaMethodExtractorMark2
+研究室wikiで配布のツールが一部の文法に対応していないようなので作ってみた。
